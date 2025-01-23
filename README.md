@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/dm_097" target="blank"><img src="https://img.shields.io/twitter/follow/dm_097?logo=twitter&style=for-the-badge" alt="dm_097" /></a> </p>
 
-- 🔭 I’m currently working on **Trojan horse**
-
-- 🌱 I’m currently learning **Data Structures, Mongo DB, Express Js, React Js, Node Js and Javascript.**
+- 🔭 I’m currently working on **Developing an OCR model for accurate recognition of Kashmiri text, aiming to preserve the Kashmiri language**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **Python, Java, Js, Node Js**
+- 💬 Ask me about **Python, ML, DL, LLM's**
 
-- 📫 How to reach me **dm5558@srmist.edu.in**
+- 📫 How to reach me **deheembhat9@gmail.com**
 
-- ⚡ About me **I love the feeling of being anonymous in a city I’ve never been before.**
+- ⚡ About me **I love being anonymous in a city I’ve never been to.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
